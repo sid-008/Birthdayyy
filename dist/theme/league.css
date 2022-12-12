@@ -6,6 +6,8 @@
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
 @import url(./fonts/league-gothic/league-gothic.css);
+
+@import url(https://fonts.google.com/specimen/League+Spartan)
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222;
@@ -16,7 +18,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --r-background-color: #2b2b2b;
-  --r-main-font: Lato, sans-serif;
+  --r-main-font: Lato, League Spartan;
   --r-main-font-size: 40px;
   --r-main-color: #eee;
   --r-block-margin: 20px;
